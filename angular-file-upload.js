@@ -1,6 +1,6 @@
 /*
  angular-file-upload v1.1.5
- https://github.com/nervgh/angular-file-upload  123
+ https://github.com/nervgh/angular-file-upload
 */
 (function(angular, factory) {
     if (typeof define === 'function' && define.amd) {
